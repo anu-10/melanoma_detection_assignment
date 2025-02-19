@@ -53,7 +53,7 @@ Vascular lesion
 - [Numpy](https://numpy.org/) - version 2.0.1
 - [Pandas](https://pandas.pydata.org/) - version 2.2.2
 - [Seaborn](https://seaborn.pydata.org/) - version 0.13.2
-- [Tensorflow]([https://www.statsmodels.org](https://www.tensorflow.org/)) - version2.18.0
+- [Tensorflow](https://www.tensorflow.org/) - version 2.18.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
